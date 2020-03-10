@@ -21,8 +21,8 @@ Create a folder named "config" inside which a database.php file is to be created
  Create a new folder "User" and create a new file there as "signup.php". Similarly, Create a new folder "Vendor" and create a new file there as "signup.php". This file is created for calling the signup function from the "users.php" and "vendors.php" respectively in the objects folder.
 
  Following the same, create another file in the User and Vendor folder respectively, name the files as "login.php" and call the login function form the "users.php" and "vendors.php" respectively in the objects folder.
- <img src="images/successfu1.png"></img>
- <img src="images/successful2.png"></img>
+ <img src="images/success1.png"></img>
+ <img src="images/success2.png"></img>
 
 
 ## CONNECTING TO FRONT-END
@@ -35,5 +35,5 @@ Create a folder named "config" inside which a database.php file is to be created
  VendorIndex.html file is created in the same way and form action is linked to ./vendor/login.php or ./vendor/signup.php according to the user registering as a new one or an already registered user signing in. 
 
  <img src="images/shopkeeper.png" style="height:50px;"></img>
- <img src="images/list.png"></img>
+ <img src="images/list2.png"></img>
 
