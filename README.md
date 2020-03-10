@@ -26,11 +26,12 @@ Create a folder named "config" inside which a database.php file is to be created
 ## CONNECTING TO FRONT-END
 
 1. ### FOR USER
- index.html file is created containing an HTML form for sign in/registration. To beautify it, a css file is also linked which is kept in assets/css/style.css. Form action is linked to ./user/login.php
+ index.html file is created containing an HTML form for sign in/registration. To beautify it, a css file is also linked which is kept in assets/css/style.css. Form action is linked to ./user/login.php or ./user/signup.php accordingly.
  <img src="images/user.png" style="height:50px;"></img>
 
 2. ### FOR SHOPKEEPER
- VendorIndex.html file is created in the same way. 
+ VendorIndex.html file is created in the same way and form action is linked to ./vendor/login.php or ./vendor/signup.php according to the user registering as a new one or an already registered user signing in. 
 
  <img src="images/shopkeeper.png" style="height:50px;"></img>
+ <img src="images/list.png"></img>
 
