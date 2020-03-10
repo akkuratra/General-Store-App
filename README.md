@@ -8,7 +8,7 @@ Authentication and Registration API for customer as well as shopkeeper are creat
  Create a database named *Mekvahan* in localhost/phpmyadmin.
 Inside that, two tables are to be created namely *users* and *vendors*.
 
-<img src="images/databases.png" style="height:100px; float:left;"></img>
+<img src="images/databases.png" style="width:100px; float:left;"></img>
 
 2. ### DATABASE CONNECTIVITY
 Create a folder named "config" inside which a database.php file is to be created to simply connect to the database using PHP's OOPS concept.
